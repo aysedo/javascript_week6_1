@@ -1,5 +1,5 @@
 // Define an Array called `myArray` with some numbers 
-const myArray = [7, 1, 1, 7, 1, 7, 9, 9, 12, 8, 12, 12, 9, 8]
+const myArray = [7, 2, 2, 7, 2, 7, 9, 9, 3, 8, 3, 3, 9, 8]
 // let length Stores the length of the array in the variable `length`, to avoid recalculating the arrays length which can be more efficient.
 let length = myArray.length
 // start a for loop will continue as long as `i`~ is less than the `length`(13)in each iteration `i`will be incremented by 1.
